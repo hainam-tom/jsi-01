@@ -1,0 +1,32 @@
+{
+  "name": "random-employee-management-system",
+  "version": "1.0.0",
+  "description": "nuh uh",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^13.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "author": "Win 11 (maybe not)",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hainam-tom/jsi-01.git"
+  },
+  "keywords": [
+    "employee"
+  ],
+  "bugs": {
+    "url": "https://github.com/hainam-tom/jsi-01/issues"
+  },
+  "homepage": "https://github.com/hainam-tom/jsi-01#readme"
+}
